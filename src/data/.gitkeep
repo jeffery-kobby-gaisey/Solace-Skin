@@ -1,0 +1,3 @@
+# Local fallback store lives here (bookings.local.json, enquiries.local.json,
+# subscribers.local.json). These files are created automatically on first
+# submission and are gitignored.
